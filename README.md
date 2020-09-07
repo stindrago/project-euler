@@ -1,7 +1,5 @@
 # Project Euler
 
-## Info
-
 Solving [Project Euler](https://projecteuler.net/about)'s problems.
 
 ## Problems
